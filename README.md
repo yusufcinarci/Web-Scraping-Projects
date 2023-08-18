@@ -1,3 +1,3 @@
-# Python-Web-Scraping-Examples
+# Python-Web-Scraping
 
-I will make projects related to web scraping from Beginner to advanced level in this repo...
+
